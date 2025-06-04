@@ -8,5 +8,5 @@ This project includes a simple Flask API to check whether a number is prime and 
 ```bash
 python app.py
 run index.html
-enter the number u want to check whether its prime or not.
+//enter the number u want to check whether its prime or not.
 
